@@ -1,6 +1,6 @@
 <!-- Alright, Cally, what was the description beforehand?-->
 # SMW-Ultimate
-Super Mario World Ultimate! The new adventure! Help Mario, Luigi, and their friends in Dinosaur Land! (Again!)
+Super Mario World Ultimate! The new adventure! Help Mario, Luigi, and their friends in Dinosaur Land! (Again!) After that there's another chapter! (SMW Encore Rom Hack)
 
 This README is a work in progress, as Cally decides what actually happens. For now, it's just the SMW description.
 
